@@ -1,4 +1,4 @@
-# Docker no Ubunto
+# Docker no Ubuntu
 ### Instalação:
 
 1. Configure o repositório Apt do Docker
